@@ -1,0 +1,18 @@
+.textarea_clinic{
+  .input{
+    width:150px;
+  }
+  .MuiSelect-selectMenu{
+    width:384px;
+  }
+  .MuiInputBase-formControl{
+    width:381px;
+  }
+}
+.MuiTablePagination-selectRoot{
+  background: #f68c31;
+  border-radius: 15px;
+  &:hover{
+    background: #272b46
+  }
+}

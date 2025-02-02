@@ -1,0 +1,81 @@
+
+
+.evolution_right_tag{
+  margin-left: auto;
+  margin-right: 10px !important;
+}
+.MuiAccordionSummary-expandIcon{
+  margin-bottom: 15px !important;
+  svg{
+    color:#ffffff
+  }
+}
+
+.score-select{
+  .MuiInputBase-input{
+    overflow: hidden;
+    width: auto;
+  }
+}
+
+.producer-form{
+  .MuiFormControl-root {
+    padding: 0 10px 20px !important;
+    margin: 10px 10px !important;
+  }
+  .producer_province{
+    margin:10px 20px !important;
+  }
+  .submit-producer-details{
+    margin-left: 20px !important;
+  }
+}
+.MuiAccordionSummary-root{
+    height: auto !important;
+}
+.eva-detail{
+  width: 100% !important;
+  .MuiFormControl-root{
+    width:auto !important;
+  }
+  label{
+    margin-left: 10px !important;
+  }
+  .select-twocol{
+    strong{
+      color:#291e47
+    }
+    .MuiTextField-root{
+      width: 75% !important;
+      padding: 0 0px 22px !important;
+    }
+    .MuiInputBase-root{
+      width: 75% !important;
+      margin-left:0px !important;
+      margin-right: 0px !important;
+    }
+  }
+  .Other_field_text {
+    display: inline-block;
+    min-width: 40% !important;
+    width:40% !important;
+    .MuiInputBase-root .MuiOutlinedInput-root .MuiInputBase-formControl {
+      width: 100% !important;
+    }
+  }
+}
+.add-new-bull{
+  .MuiTextField-root{
+    width: 100% !important;
+  }
+}
+.date-time-reports{
+  .MuiFormControl-root{
+    padding:10px 10px !important;
+    height: auto;
+  } 
+}
+.classification .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-formControl {
+  width: 100% !important;
+}
+  

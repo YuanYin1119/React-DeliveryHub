@@ -1,0 +1,6 @@
+export const LOGIN = "LOGIN"
+export const CHECKTOKEN = "CHECKTOKEN"
+export const LOGOUT = "LOGOUT"
+export const ONLINE = "ONLINE"
+export const F_SEPARATOR="!!"
+export const L_SEPARATOR="##"

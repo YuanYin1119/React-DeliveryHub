@@ -1,0 +1,1 @@
+export const REQUEST_URL_PREFIX = process.env.REACT_APP_BACKEND_API;

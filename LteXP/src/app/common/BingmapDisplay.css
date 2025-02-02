@@ -1,0 +1,15 @@
+.red-color{
+	color:red;
+}
+.map-two{
+	border: 1px solid black;
+	width: 99%;
+	/* float: right; */
+	height: 700px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.customClass{
+	height: 100%;
+}
