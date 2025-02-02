@@ -1,0 +1,19 @@
+{
+  "name": "COMPANT FULL NAME",
+  "short_name": "COMPANT",
+  "icons": [
+    {
+      "src": "/images/logo-mini.png",
+      "type": "image/png",
+      "sizes": "85x85"
+    }
+  ],
+  "start_url": "",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#272b46",
+  "description": "COMPANY DESCRIPTION HERE.",
+  "lang": "en-US"
+}
